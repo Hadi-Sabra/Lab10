@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<package>
+    <metadata>
+        <id>inmindAccademy.lab10.HadiSabra</id>
+        <version>1.0.0</version>
+        <authors>Your Name</authors>
+        <owners>Your Name</owners>
+        <description>A smart text-handling library for formatting and analyzing text.</description>
+        <license type="expression">MIT</license>
+        <tags>text string-case statistics</tags>
+    </metadata>
+</package>

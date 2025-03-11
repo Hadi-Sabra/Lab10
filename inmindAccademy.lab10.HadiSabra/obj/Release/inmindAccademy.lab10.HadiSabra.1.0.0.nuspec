@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>inmindAccademy.lab10.HadiSabra</id>
+    <version>1.0.0</version>
+    <authors>inmindAccademy.lab10.HadiSabra</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\admin\RiderProjects\Lab10\inmindAccademy.Lab10.HadiSabra\bin\Release\net8.0\inmindAccademy.lab10.HadiSabra.dll" target="lib\net8.0\inmindAccademy.lab10.HadiSabra.dll" />
+  </files>
+</package>

@@ -1,0 +1,11 @@
+C:\Users\admin\RiderProjects\Lab10\inmindAccademy.Lab10.HadiSabra\obj\Release\net8.0\inmindAccademy.lab10.HadiSabra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\RiderProjects\Lab10\inmindAccademy.Lab10.HadiSabra\obj\Release\net8.0\inmindAccademy.lab10.HadiSabra.AssemblyInfoInputs.cache
+C:\Users\admin\RiderProjects\Lab10\inmindAccademy.Lab10.HadiSabra\obj\Release\net8.0\inmindAccademy.lab10.HadiSabra.AssemblyInfo.cs
+C:\Users\admin\RiderProjects\Lab10\inmindAccademy.Lab10.HadiSabra\obj\Release\net8.0\inmindAccademy.lab10.HadiSabra.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\Lab10\inmindAccademy.Lab10.HadiSabra\bin\Release\net8.0\inmindAccademy.lab10.HadiSabra.deps.json
+C:\Users\admin\RiderProjects\Lab10\inmindAccademy.Lab10.HadiSabra\bin\Release\net8.0\inmindAccademy.lab10.HadiSabra.dll
+C:\Users\admin\RiderProjects\Lab10\inmindAccademy.Lab10.HadiSabra\bin\Release\net8.0\inmindAccademy.lab10.HadiSabra.pdb
+C:\Users\admin\RiderProjects\Lab10\inmindAccademy.Lab10.HadiSabra\obj\Release\net8.0\inmindAccademy.lab10.HadiSabra.dll
+C:\Users\admin\RiderProjects\Lab10\inmindAccademy.Lab10.HadiSabra\obj\Release\net8.0\refint\inmindAccademy.lab10.HadiSabra.dll
+C:\Users\admin\RiderProjects\Lab10\inmindAccademy.Lab10.HadiSabra\obj\Release\net8.0\inmindAccademy.lab10.HadiSabra.pdb
+C:\Users\admin\RiderProjects\Lab10\inmindAccademy.Lab10.HadiSabra\obj\Release\net8.0\ref\inmindAccademy.lab10.HadiSabra.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "inmindAccademy.Lab10.HadiSabra/1.0.0": {
+        "runtime": {
+          "inmindAccademy.Lab10.HadiSabra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "inmindAccademy.Lab10.HadiSabra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
